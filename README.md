@@ -27,6 +27,8 @@ Planet Daily also allows the user to save the tasks and when checking the tasks 
 * WHEN I refresh the page
 * THEN the saved events persist
 
+# Live Link Deployment
+ https://nhaninasser.github.io/Planet-daily/
 
 # Screenshots
 <img src="./assets/Planet-Daily-Full-Size.png">
