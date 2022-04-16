@@ -29,3 +29,9 @@ $(".saveBtn").on("click", function () {
     var textContent = $(this).siblings(".description").val();
     localStorage.setItem(time, textContent);
 });
+
+function getText() {
+    $("#8 .description").val(localStorage.getItem("8"));
+}
+
+getText();
