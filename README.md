@@ -29,7 +29,8 @@ Planet Daily also allows the user to save the tasks and when checking the tasks 
 
 
 # Screenshots
-
+<img src="./assets/Planet-Daily-Full-Size.png">
+<img src="./assets/Planet-Daily-Local-Storage.png">
 
 # Made With
 * HTML
